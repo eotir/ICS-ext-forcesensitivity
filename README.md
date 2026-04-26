@@ -396,6 +396,20 @@ This extension is released under the [MIT License](LICENSE).
 
 ---
 
+## 📚 Documentation
+
+| Document | Description |
+|----------|-------------|
+| [CONTRIBUTING.md](CONTRIBUTING.md) | Contribution guidelines, coding standards, development setup |
+| [DEVELOPMENT.md](DEVELOPMENT.md) | Local IPS dev environment setup, installation, debugging |
+| [docs/README.md](docs/README.md) | Categorized index of all documentation |
+| [docs/ADMIN_GUIDE.md](docs/ADMIN_GUIDE.md) | Complete administrator guide |
+| [docs/FAQ.md](docs/FAQ.md) | Frequently asked questions |
+| [docs/TECHNICAL_SPECIFICATION.md](docs/TECHNICAL_SPECIFICATION.md) | Technical architecture and API reference |
+| [docs/DEVELOPMENT_PLAN.md](docs/DEVELOPMENT_PLAN.md) | Project roadmap and milestones |
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please read our contributing guidelines before submitting pull requests.
